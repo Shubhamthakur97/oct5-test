@@ -9,3 +9,7 @@ build({
     outfile: 'dist/index.js',
     target: 'node16',
 }).catch(() => process.exit(1));
+
+
+
+Test 2
